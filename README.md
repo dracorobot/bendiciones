@@ -10,3 +10,4 @@ comon
 c'monn
 Lucky
 ChicAndlucky
+Chikyluky
